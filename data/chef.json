@@ -1,190 +1,181 @@
 [
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "1",
         "name": "Shaun Marsh",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat the oil in a wok or large skillet over high he.Add the beef and stir-fry until browned on all sides, about 2-3 minutes. Remove from the wok and set aside.Add the garlic and ginger to the wok and stir-fry for 30 seconds.Add the garlic and ginger to the wok and stir-fry for 30 seconds.Return the beef to the wok and add the soy sauce, oyster sauce, sugar, salt, and pepper. Stir-fry for another minute or two, until the beef is cooked through and the vegetables are tender."
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXwj1XwZOIvvM_kOVQ6LUCU3WIIcDNqem8li1uXmQ&s",
+                "recipeName": "Hamburger",
+                "ingredients": "Ground beef,Salt and pepper, Hamburger buns,Tomato,Onion,Pickles",
+                "rating": 4.5,
+                "cookingMethod": "Start by selecting high-quality ground beef, ideally with a fat content of 80% to 85%.Divide the ground beef into evenly sized portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking.Season the patties with salt and pepper on both sides."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg",
+                "recipeName": "Cheeseburger",
+                "ingredients": "Ground beef,Salt and pepper,LettuceTomato,Onion ,Pickles",
+                "rating": 4,
+                "cookingMethod": "Divide the ground beef into even portions and shape them into patties that are slightly larger than the size of the bun you plan to use.Preheat a grill or skillet over medium-high heat. If using a grill, lightly oil the grates to prevent the patties from sticking."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat Stir-fry for another minute or two, until the beef is cooked through and the vegetables are tender."
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
+                "rating": 4,
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
     },
     {
-        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
-        "name": "Shaun Marsh",
+        "id": "2",
+        "name": "Shean Watson",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://as2.ftcdn.net/v2/jpg/04/19/31/51/1000_F_419315193_vhS3TMEtV91CKXmbxRdEuGSwfiYPFOg1.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat gh and the vegetables are tender."
+                "img": "https://i.ytimg.com/vi/3Ho9ivMWhho/maxresdefault.jpg",
+                "recipeName": "Muffin",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat gh and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Burrito.JPG/800px-Burrito.JPG",
+                "recipeName": "Burrito",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "ggg"
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"He hrough and the vegetables are tender."
+                "img": "https://img.taste.com.au/w_-0kcUJ/taste/2016/11/aussie-style-beef-and-salad-tacos-86525-1.jpeg",
+                "recipeName": "Taco",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "He hrough and the vegetables are tender."
             }
         ]
     },
     {
-        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "id": "3",
         "name": "Shaun Marsh",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://t3.ftcdn.net/jpg/00/48/69/34/240_F_48693442_sqWbhb7sOWYKUlGK1CWck3k1asmAdGSL.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat "
+                "img": "https://amandascookin.com/wp-content/uploads/2022/09/Korean-Fried-Chicken-RCSQ.jpg",
+                "recipeName": "Fried chicken",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat "
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/1200px-Glazed-Donut.jpg",
+                "recipeName": "Donuts",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": ""
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heat through and the vegetables are tender."
+                "img": "https://cdn.britannica.com/33/206333-050-598A0208/sodas-plastic-cups-ice-straws.jpg",
+                "recipeName": "Soft drink",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heat through and the vegetables are tender."
             }
         ]
     },
     {
-        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "id": "4",
         "name": "Shaun Marsh",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://t3.ftcdn.net/jpg/00/48/89/34/240_F_48893481_4GBks3oRkQx0LTRsaL5BAPpOFpoXyhPt.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Hked through and the vegetables are tender."
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/800px-Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+                "recipeName": "Pizza",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Hked through and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://www.allrecipes.com/thmb/riouEgfO9AywX0nYG73z8GGraHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/207422_Old-Fashioned-Onion-Rings_82659_Photo-by-Tricia-Winterle-Jaeger-2000-a96820e27cb64cafa8c4925ad027a59d.jpg",
+                "recipeName": "Onion ring",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "ddd"
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heatd through and the vegetables are tender."
+                "img": "https://static.onecms.io/wp-content/uploads/sites/43/2022/02/16/21014-Good-old-Fashioned-Pancakes-mfs_001.jpg",
+                "recipeName": "Pancake",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Heatd through and the vegetables are tender."
             }
         ]
     },
     {
-        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "id": "5",
         "name": "Shaun Marsh",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://t3.ftcdn.net/jpg/01/58/89/28/240_F_158892865_HNS7LtgJpvpxTj45n4qO5apjELT5Thua.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":" is cooked through and the vegetables are tender."
+                "img": "https://i0.wp.com/www.onceuponachef.com/images/2022/05/oven-bacon-1.jpg?resize=760%2C548&ssl=1",
+                "recipeName": "Bacon",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "is cooked through and the vegetables are tender."
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1rnDMSCH1sflYCRaws33Wz_KXM3aBulSXH_fgHTR-3dyxpXRwq-bXuMx83tewJcI4HDs&usqp=CAU",
+                "recipeName": "Chip",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "dddd"
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"He is cooked through and the vegetables are tender."
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
+                "rating": 4,
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             }
         ]
     },
     {
-        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
-        "name": "Shaun Marsh",
+        "id": "6",
+        "name": "Michel Clerk",
         "experience": "4 Years",
         "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
+        "img": "https://t3.ftcdn.net/jpg/00/34/50/88/240_F_34508847_P1uQLdxDFcpPoM51o4RJpYBj2Yv9U94k.jpg",
         "recipes": [
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Heatked through and the vegetables are tender."
+                "img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
+                "recipeName": "Milkshake",
+                "ingredients": "Ice cream,MilK, Fruits ,Nuts ,Candy ,Protein powder",
+                "rating": 4,
+                "cookingMethod": "Scoop 2 to 3 large scoops of ice cream into a blender.Pour in about 1/2 to 1 cup of milk, depending on the thickness you prefer for your milkshake.Add any desired flavorings, such as chocolate syrup or vanilla extract.Blend the ingredientstogether until smooth and creamy. If the shake is too thick, add more milk a little at a time until it reaches your desired consistency"
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx3er0AyQZvbWCxcXrayc1heFypxVuX3DLEU_QIDCcPktAfeE13YU9zVrb25ZKHDDIkEY&usqp=CAU",
+                "recipeName": "Kung Pao Chicken",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "gggff"
             },
             {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"Hethrough and the vegetables are tender."
-            }
-        ]
-    },
-    {
-        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
-        "name": "Shaun Marsh",
-        "experience": "4 Years",
-        "likes": 3725,
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-02/230203-pizza-mobster-mb-0955-89ef00.jpg",
-        "recipes": [
-            {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":"tables are tender."
-            },
-            {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
-            },
-            {
-                "recipe-name": "kala Vuna",
-                "ingredients ": "mutton, tail, salt,mosla,water",
-                "rating":4,
-                "cooking-method":""
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAUcfvz09HGo1_IARr0IAwWtfAg9DorLfdZI1aAMo8MOwXgb9Lufj-og7wd-jztD7Gdyg&usqp=CAU",
+                "recipeName": "Sweet and Sour Pork",
+                "ingredients": "mutton, tail, salt,mosla,water",
+                "rating": 4,
+                "cookingMethod": "Hethrough and the vegetables are tender."
             }
         ]
     }
