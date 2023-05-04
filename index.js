@@ -5,7 +5,7 @@ const port =  process.env.PORT || 3000 ;
 
 app.use(cors())
 
-
+const chefData = require('./data/chef.json')
 
 app.get('/', (req, res) => {
   res.send('chef recipe hunter website')
